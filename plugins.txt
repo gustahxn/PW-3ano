@@ -1,0 +1,10 @@
+auto rename tag
+es lint
+color picker
+git history
+color highlighter
+html css support
+path intelissense
+php intelephense
+prettier
+live server
